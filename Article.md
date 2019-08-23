@@ -10,7 +10,7 @@ I was once asked this question during a job interview. Admittedly, I drew a comp
 
 While glancing up at the ceiling, I rambled on about "[**subject matter experts**](https://trainingindustry.com/glossary/subject-matter-expert-sme/)," creating how-to manuals and troubleshooting guides for "[**end users**](https://en.wikipedia.org/wiki/End_user)," and storing essential data with "[**content management systems**](https://searchcontentmanagement.techtarget.com/definition/content-management-system-CMS)," but I didn't offer a clear picture of what we actually do on a day-to-day basis. In short, I left the interviewer scratching his head. I bet he *still* has no idea what a technical writer does.
 
-<img src="https://media.licdn.com/dms/image/C4D12AQE7Hcl3bM-whw/article-inline_image-shrink_1000_1488/0?e=1571875200&v=beta&t=1GEOXT5ulmr4WqcIAdN5kbtXwzCwLX-TYqU_YD1AolE" height="57%" width="57%" align="right"></img>
+<img src="https://media.licdn.com/dms/image/C4D12AQE7Hcl3bM-whw/article-inline_image-shrink_1000_1488/0?e=1571875200&v=beta&t=1GEOXT5ulmr4WqcIAdN5kbtXwzCwLX-TYqU_YD1AolE" height="59%" width="59%" align="right"></img>
 
 The question was simple enough. But even though I'd worked as a technical writer for several years by this point, somehow, I'd never put it into words. How does one distill their entire profession — and everything it entails — into just one paragraph or even one sentence?
 
