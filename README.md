@@ -50,4 +50,4 @@ So, now that we've established a basic idea of what a technical writer does, how
 
 > "gathers, develops, and presents technical information in a clear, concise document for a specific audience."
 
-I think that sums it up nicely. I just wish I'd known it before my interview. . . .
+I think that sums it up nicely. I just wish I'd known it before my interview. . .
