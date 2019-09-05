@@ -6,7 +6,7 @@
 &nbsp
 <p>
 
-The **Transaction Store report** can be exported as a file. You can archive this file as a backup or print it off. For added redudancy, it is recommended to export the report during and after processing.
+The **Transaction Store report** can be exported as a file. You can archive this file as a backup or print it off. For added redundancy, it is recommended to export the report during and after processing.
 
 ### Steps
 
