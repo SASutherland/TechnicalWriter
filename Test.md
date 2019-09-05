@@ -14,10 +14,6 @@ The **Transaction Store report** can be exported as a file. You can archive this
 
 2. You should receive the formatted TxStore file. A receipt set is included with the report, which can be used for verification. 
 
-```TypeScript
-ADYLibraryResult result = tx_store_export(txexpReq, tx_store_export_CB, &POS);
-```
-
 ### Allocate memory
 
 Use `tx_store_export_allocate` to allocate memory for a `tx_store_export`. The library automatically frees this memory.  
