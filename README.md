@@ -2,7 +2,7 @@
 
 I was once asked this question during a job interview. Admittedly, I drew a blank.
 
-<img src="https://github.com/SASutherland/TechnicalWriter/blob/master/Confused.PNG" alt="A man at his desk looking confused" height="48%" width="38%" align="right">
+<img src="https://github.com/SASutherland/TechnicalWriter/blob/master/Confused.PNG" alt="A man at his desk looking confused" height="45%" width="35%" align="right">
 
 The question was simple enough. But even though I'd worked as a technical writer for several years, somehow I'd never put it all into words. How does one distill their entire profession into just one paragraph or even _one sentence_?
 
