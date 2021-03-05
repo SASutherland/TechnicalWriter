@@ -12,7 +12,7 @@ I've had a lot of time to consider it since then. Occasionally, I get asked the 
 
 ### We simplify.
 
-First off, technical writers act as a liaison between the engineer and the customer, taking complicated ideas and processes and **explaining them so that anyone can understand** — anyone at all, regardless of expertise. The simpler, the better. We know our target audience and we tailor our documents just for them. Engineers, for all their great qualities, are not always the best at describing things in such a way that non-engineers can fully grasp (sorry!). And that's where we come in. **Think of us as translators, filtering through pages of complex information and turning those paragraphs into short, punchy sentences**.
+First off, technical writers act as a liaison between the engineer and the customer, taking complicated ideas and processes and **explaining them so that anyone can understand** — anyone at all, regardless of expertise. The simpler, the better. We know our target audience and we tailor our documents just for them. Engineers, for all their great qualities, are not always the best at describing things in such a way that non-engineers can fully grasp (sorry!) And that's where we come in. **Think of us as translators, filtering through pages of complex information and turning those paragraphs into short, punchy sentences**.
 
 In other words, we meet with the experts at our company, interview them, get the inside scoop on what they've been working on, and then **bring that information directly to you**, using clear documentation that will illustrate exactly what we've learned. **We do this for both our customers and colleagues** because there may be people on other teams who need that info, too.
 
