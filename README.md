@@ -1,8 +1,8 @@
-<img src="https://github.com/SASutherland/TechnicalWriter/blob/master/Banner.PNG" alt="Banner" height="320" width="1200">
-
 # "So, enlighten me. What does a technical writer actually do?"
 
 I was once asked this question during a job interview. Admittedly, I drew a blank.
+
+<img src="https://github.com/SASutherland/TechnicalWriter/blob/master/Confused.PNG" alt="A man at his desk looking confused" height="48%" width="38%" align="right">
 
 The question was simple enough. But even though I'd worked as a technical writer for several years, somehow I'd never put it all into words. How does one distill their entire profession into just one paragraph or even _one sentence_?
 
@@ -10,7 +10,7 @@ While staring up at the ceiling, I rambled on about collaborating with "[**subje
 
 I've had a lot of time to consider it since then. Occasionally, I get asked the same question by friends and family members who wonder how exactly I spend my days. To someone who has never worked on a team with technical writers before, it can be bewildering to try to explain because it's such a multifaceted role.
 
-But, let's give it a shot, anyway:
+But let's give it a shot!
 
 ### We simplify.
 
