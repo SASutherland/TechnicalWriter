@@ -16,7 +16,7 @@ First off, technical writers act as a liaison between the engineer and the custo
 
 In other words, we meet with the experts at our company, interview them, get the inside scoop on what they've been working on, and then **bring that information directly to you**, using clear documentation to illustrate exactly what we've learned. **We do this for both our customers and colleagues** because there may be people working on other teams who need that info, too.
 
-<img src="https://github.com/SASutherland/TechnicalWriter/blob/master/Documenting.PNG" alt="A drawing of people looking at colorful documentation" height="30%" width="30%" align="left">
+<img src="https://github.com/SASutherland/TechnicalWriter/blob/master/Documenting.PNG" alt="A drawing of people looking at colorful documentation" height="28%" width="28%" align="left">
 
 **Say you've made an exciting new product**. It's been in development for years and now it's finally ready to be released. It has 20 different functionalities. It does everything. It's going to completely change our lives in ways that we can't possibly imagine — like the automobile or the Internet. **How would you describe this product to someone who's never seen it before? How would you explain it to a novice? Where would you even begin?** If it's overly complicated, chances are you'll need a technical writer. 
 
@@ -30,9 +30,9 @@ Were you able to troubleshoot your issue with a quick Google search? Did you fin
 
 Thirdly, we're capable of using complex software. Being a good writer is a prerequisite, but we can't do our jobs solely with Microsoft Word. We need some technical know-how as well, like the ability to work with programming languages like [**JavaScript**](https://www.w3schools.com/js/default.asp), [**Python**](https://www.python.org/), and [**C++**](https://en.wikipedia.org/wiki/C%2B%2B). Technical writers use XML editors and design tools to lay out our documents. **We want them to be engaging, compelling, and user-friendly**. We want them to be bold and bright with vivid colors. We add images, flowcharts, and graphs to help our readers. And, to do so, we need a wide array of applications and software. We might even create tutorial videos using [**Camtasia**](https://en.wikipedia.org/wiki/Camtasia) or design our own graphics for you. 
 
-See what I mean when I said this job was multifaceted?
+<img src="https://github.com/SASutherland/TechnicalWriter/blob/master/Cooperation.PNG" alt="An overhead shot of people cooperating at an office table" height="37%" width="37%" align="right"></img>
 
-<img src="https://github.com/SASutherland/TechnicalWriter/blob/master/Cooperation.PNG" alt="An overhead shot of people cooperating at an office table" height="35%" width="35%" align="right"></img>
+See what I mean when I said this job was multifaceted?
 
 **There's even some data management involved**, as technical writers typically work with huge amounts of information. This data needs to be organized in a precise, orderly fashion so that it can be accessed easily — therefore, all digital content files have to be sorted and stored in the right place. To do this, we use content management systems, where we can search for and archive essential documentation. On top of everything else, most technical writers are skilled data managers.
 
