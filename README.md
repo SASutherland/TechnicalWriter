@@ -2,15 +2,13 @@
 
 I was once asked this question during a job interview. Admittedly, I drew a blank.
 
-<img src="https://github.com/SASutherland/TechnicalWriter/blob/master/Confused.PNG" alt="A man at his desk looking confused" height="45%" width="35%" align="right">
+<img src="https://github.com/SASutherland/TechnicalWriter/blob/master/Confused.PNG" alt="A man at his desk looking confused" height="45%" width="39%" align="right">
 
 The question was simple enough. But even though I'd worked as a technical writer for several years, somehow I'd never put it all into words. How does one distill their entire profession into just one paragraph or even _one sentence_?
 
 While staring up at the ceiling, I rambled on about collaborating with "[**subject matter experts**](https://trainingindustry.com/glossary/subject-matter-expert-sme/)," creating how-to manuals and troubleshooting guides to improve the "[**user experience**](https://en.wikipedia.org/wiki/User_experience)," and storing essential data with "[**content management systems**](https://searchcontentmanagement.techtarget.com/definition/content-management-system-CMS)," but I didn't offer a clear picture of what we actually do on a day-to-day basis. In short, I left the interviewer scratching his head.
 
-I've had a lot of time to consider it since then. Occasionally, I get asked the same question by friends and family members who wonder how exactly I spend my days. To someone who has never worked on a team with technical writers before, it can be bewildering to try to explain because it's such a multifaceted role.
-
-But let's give it a shot!
+I've had a lot of time to consider it since then. Occasionally, I get asked the same question by friends and family members who wonder how exactly I spend my days. To someone who has never worked on a team with technical writers before, it can be bewildering to try to explain because it's such a multifaceted role. But let's give it a shot!
 
 ### We simplify.
 
