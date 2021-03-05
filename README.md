@@ -28,7 +28,9 @@ Were you able to troubleshoot your issue with a quick Google search? Did you fin
 
 ### We're technically savvy.
 
-Thirdly, we're capable of using complex software. Being a good writer is a prerequisite, but we can't do our jobs solely with Microsoft Word. We need some technical know-how as well, like the ability to work with programming languages like [**JavaScript**](https://www.w3schools.com/js/default.asp), [**Python**](https://www.python.org/), and [**C++**](https://en.wikipedia.org/wiki/C%2B%2B). Technical writers use XML editors and design tools to lay out our documents. **We want them to be engaging, compelling, and user-friendly**. We want them to be bold and bright with vivid colors. We add images, flowcharts, and graphs to help our readers. And, to do so, we need a wide array of applications and software. We might even create tutorial videos using [**Camtasia**](https://en.wikipedia.org/wiki/Camtasia) or design our own graphics for you. See what I mean when I said this job was multifaceted?
+Thirdly, we're capable of using complex software. Being a good writer is a prerequisite, but we can't do our jobs solely with Microsoft Word. We need some technical know-how as well, like the ability to work with programming languages like [**JavaScript**](https://www.w3schools.com/js/default.asp), [**Python**](https://www.python.org/), and [**C++**](https://en.wikipedia.org/wiki/C%2B%2B). Technical writers use XML editors and design tools to lay out our documents. **We want them to be engaging, compelling, and user-friendly**. We want them to be bold and bright with vivid colors. We add images, flowcharts, and graphs to help our readers. And, to do so, we need a wide array of applications and software. We might even create tutorial videos using [**Camtasia**](https://en.wikipedia.org/wiki/Camtasia) or design our own graphics for you. 
+
+See what I mean when I said this job was multifaceted?
 
 <img src="https://github.com/SASutherland/TechnicalWriter/blob/master/Cooperation.PNG" alt="An overhead shot of people cooperating at an office table" height="35%" width="35%" align="right"></img>
 
