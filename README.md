@@ -18,7 +18,7 @@ In other words, we meet with the experts at our company, interview them, get the
 
 <img src="https://github.com/SASutherland/TechnicalWriter/blob/master/Documenting.PNG" alt="A drawing of people looking at colorful documentation" height="21%" width="28%" align="left">
 
-**Say you've made an exciting new product**. It's been in development for years and now it's finally ready to be released. It has 20 different functionalities. It does everything. It's going to completely change our lives in ways that we can't possibly imagine — like the automobile or the Internet. **How would you describe this product to someone who's never used it before? How would you explain all of its functionalities to a novice? Where would you even begin?** If it's overly complicated, chances are you'll need a technical writer. 
+**Say you've made an exciting new product**. It's been in development for years and now it's finally ready to be released. It has 20 different functionalities. It's going to completely change our lives in ways that we can't possibly imagine — like the automobile or the Internet. **How would you describe this product to someone who's never used it before? How would you explain all of its functionalities to a novice? Where would you even begin?** If it's overly complicated, chances are you'll need a technical writer. 
 
 ### Never call customer service again.
 
